@@ -5,7 +5,3 @@ new lines
 added i need to
 revert this 
 
-this text is
-added inside feature branch
-
-second change in features branch
